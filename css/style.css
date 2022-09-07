@@ -865,6 +865,9 @@ h3 {
   .terms__wrapper {
     grid-template-columns: repeat(1, 1fr);
   }
+  .terms ul li {
+    margin-right: 30px;
+  }
   .contacts__wrapper {
     grid-template-columns: 1fr;
     grid-row-gap: 120px;
